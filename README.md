@@ -18,4 +18,4 @@
 
 If you have any questions or feedback regarding this project, you can reach out to Jenish Kumar via email at [jenishkr.gupta@gmail.com](mailto:jenishkr.gupta@gmail.com).
 
-Thank you for using the Basic chat application!
+Thank you for using Coin-Flip Game!
