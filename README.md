@@ -13,3 +13,9 @@
 
 ## Deploy globally using Faucet:
 - Tried getting `Goerli`, `Linea` and `Sepolia` test ETH from various faucets, but each one of them asked for some activity on `mainnet` or some `ETH` which I didn't have.
+
+## Contact Information
+
+If you have any questions or feedback regarding this project, you can reach out to Jenish Kumar via email at [jenishkr.gupta@gmail.com](mailto:jenishkr.gupta@gmail.com).
+
+Thank you for using the Basic chat application!
