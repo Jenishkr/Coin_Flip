@@ -8,11 +8,14 @@
 - Make the UI/UX design nice.
 - You should test the side before submitting, and it should work. I should be able to test and it should give me tokens back.
 
-## Using Ganache:
-- Worked well locally, but can't be deployed. Major issue.
+## Using MetaMask:
+- MetaMask is a popular cryptocurrency wallet and gateway to blockchain apps, primarily used for Ethereum and Ethereum-compatible networks
 
-## Deploy globally using Faucet:
-- Tried getting `Goerli`, `Linea` and `Sepolia` test ETH from various faucets, but each one of them asked for some activity on `mainnet` or some `ETH` which I didn't have.
+## Getting Started
+
+1. Connect your Meta Mask and select Sepholia netork
+2. Select the account with which you want to play
+3. Place your place and enjoy the game !
 
 ## Contact Information
 
